@@ -1,7 +1,7 @@
 # Всем привет!
-Я Степан. В данный момент у меня есть полгода опыта в Frontend-разработке. На Github размещены мои работы и проекты, в данный момент ищу заказчиков на фрилансе.
+Меня зовут Степан. Я - frontend-разработчик. На Github размещены мои работы и проекты, в данный момент ищу заказчиков на фрилансе.
 
-Стек:Html, Css, Javascript, Sass, Figma, Photoshop, JQuery, Bootstrap, AJAX, Node.js
+№Стек:Html, Css, Javascript, Sass, Figma, Photoshop, JQuery, Bootstrap, AJAX, Node.js
 
 Способы связаться:
 Telegram: https://t.me/stepanda1
