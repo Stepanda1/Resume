@@ -1,7 +1,11 @@
 # Привет!
 Меня зовут Степан. Я - frontend-разработчик. На Github размещены мои работы и проекты, в данный момент ищу заказчиков на фрилансе.
 
-### Стек: Html, Css, Javascript, Sass, Figma, Photoshop, JQuery, Bootstrap, AJAX, Node.js
+### Стек: Html, Css, Javascript, Sass, Figma, Photoshop, JQuery, Bootstrap, AJAX, Node.js, Python, 
+
+Командные проекты:
+https://root-extraction.vercel.app/ <br />
+В проекте были роли project-manager, технический писатель; команда состояла из 4 человек(frontend-разработчик, python-разработчик, тестировщик и я)
 
 Дипломы и сертификаты:
 Яндекс олимпиада диплом победителя: https://vk.cc/cwm28A
